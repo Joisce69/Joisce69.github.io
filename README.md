@@ -33,7 +33,7 @@ Hello friends and family! We're so excited to celebrate this special day with yo
 
 ## 📸 Photo Gallery
 
-![Our Engagement Photo](images/engagement-photo.jpg)
+![Our Engagement Photo
 
 > *Feel free to tag us in photos and share on social media using our wedding hashtag: #OurWedding2024*
 
