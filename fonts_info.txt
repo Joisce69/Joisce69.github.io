@@ -1,4 +1,0 @@
-List of Fonts used in template 
-
-Kaushan Script	http://www.google.com/webfonts/specimen/Kaushan+Script
-Oswald		http://www.google.com/webfonts/family?family=Oswald&subset=latin
